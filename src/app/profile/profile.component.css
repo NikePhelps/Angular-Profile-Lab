@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Work+Sans&display=swap");
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    font-family: Work Sans;
+    width: 18vw;
+    background: #eee;
+    padding: 30px;
+    border-radius: 15px;
+    position: relative;
+    left: 37%;
+}
+
+button {
+    background-color:#505355;
+    border-radius: 5px;
+    padding: 5px;
+    color: white;
+    font-size: 18px;
+}
